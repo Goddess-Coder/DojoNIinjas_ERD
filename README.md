@@ -1,1 +1,1 @@
-# DojoNIinjas_ERD
+# DojosNinjas_ERD
